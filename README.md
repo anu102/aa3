@@ -1,4 +1,4 @@
-<html>
+﻿<html>
   <head>
     <title> <b> heloo welcome... </b> </title> 
   </head>
@@ -14,6 +14,7 @@
   <label for="others">others</label> 
   <br>
       <input type="submit" value="Submit">
+      <input type="submit"  value="cancel"> 
      
 </form>
       
